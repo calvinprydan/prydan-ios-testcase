@@ -1,0 +1,6 @@
+framework module Pods_ImaginatoDemo {
+  umbrella header "Pods-ImaginatoDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
